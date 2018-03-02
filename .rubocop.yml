@@ -1,3 +1,5 @@
+# Some change
+
 AllCops:
   Exclude:
     - 'tmp/**/*'
